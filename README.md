@@ -1,8 +1,8 @@
 
 ## 👋 Hey, I'm George Ulloa! 
 
-🎮 Aspiring Software Engineer | 🚀 Passionate about Game Dev & AI  
-💻 Currently exploring **Systems Programming, AI, and Three.js**  
+ Aspiring Software Engineer |  Passionate about lots of things! just coding for fun!
+💻 Currently exploring **Systems Programming, AI / Machine learning**  
 🎯 My goal is to **build cool projects that push my limits and help others learn**  
 
 
