@@ -17,19 +17,18 @@
     <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/starbar.gif?raw=true" alt="Hello" width="200">
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div>
+<div align="center">
+    <span style="display: inline-block;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-    </div>
-    <div>
+    </span>
+    <span style="display: inline-block; margin-left: 20px; vertical-align: middle;">
         <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150">
-    </div>
+    </span>
 </div>
-
 
 
 ### 🛠️ Tools & DevOps
