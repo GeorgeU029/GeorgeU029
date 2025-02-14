@@ -8,7 +8,7 @@
 💻 Currently exploring **Systems Programming, AI / Machine learning**  
 🎯 My goal is to **build cool projects that push my limits and help others learn**  
 <div align="center">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello" width="200">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/starbar.gif?raw=true" alt="Hello" width="200">
 </div>
 
 ## 🚀 Tech Stack
@@ -23,7 +23,7 @@
     <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello" width="200">
 </div>
 <div align="center">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello" width="200">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/starbar.gif?raw=true" alt="Hello" width="200">
 </div>
 
 ### 🛠️ Tools & DevOps
@@ -32,7 +32,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 <div align="center">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello" width="200">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/starbar.gif?raw=true" alt="Hello" width="200">
 </div>
 
 ## 📈 GitHub Stats
