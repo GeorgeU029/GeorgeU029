@@ -1,4 +1,6 @@
-
+<div style="text-align: center;">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan">
+</div>
 ## 👋 Hey, I'm George Ulloa! 
 
  Aspiring Software Engineer |  Passionate about lots of things! just coding for fun!
