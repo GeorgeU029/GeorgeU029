@@ -16,15 +16,21 @@
     <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/starbar.gif?raw=true" alt="Hello" width="200">
 </div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<table align="center">
+  <tr>
+    <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+    </td>
+    <td>
+        <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="200">
-</div>
 
 ### 🛠️ Tools & DevOps
 <div align="center">
