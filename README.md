@@ -11,10 +11,7 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 ## 🚀 Tech Stack
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-    <div style="display: grid; grid-template-columns: repeat(3, auto); gap: 10px; text-align: left;">
-            <div>
-        <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="250" style="height: auto;">
-    </div>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align: left;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -25,8 +22,11 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </div>
-
+    <div>
+        <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height: auto;">
+    </div>
 </div>
+
 
 
 ## 🛠️ Tools & DevOps
