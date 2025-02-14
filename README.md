@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hello.gif?raw=true" alt="Hello">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello">
 </div>
+
 ## 👋 Hey, I'm George Ulloa! 
 
  Aspiring Software Engineer |  Passionate about lots of things! just coding for fun!
