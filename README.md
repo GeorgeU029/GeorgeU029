@@ -13,7 +13,7 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
     <div style="display: grid; grid-template-columns: repeat(3, auto); gap: 10px; text-align: left;">
             <div>
-        <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1500" height = "150">
+        <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1500" height = "50">
     </div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
