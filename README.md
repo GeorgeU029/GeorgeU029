@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="[https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif](https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hello.gif)" alt="Hello">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hello.gif?raw=true" alt="Hello">
 </div>
 ## 👋 Hey, I'm George Ulloa! 
 
