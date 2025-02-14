@@ -23,7 +23,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 <div align="center">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello" width="200">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="200">
 </div>
 
 ### 🛠️ Tools & DevOps
