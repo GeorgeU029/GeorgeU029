@@ -10,7 +10,7 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div>
 
   <div style="display:inline-block; vertical-align:middle; margin-left:0px;">
     <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1500" height="150">
