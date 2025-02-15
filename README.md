@@ -12,7 +12,16 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 <div align="center">
 
-
+  <div style="display:inline-block; vertical-align:middle; margin-left:20px;">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
+  </div>
+    <div style="display:inline-block; vertical-align:middle; margin-left:40px;">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
+  </div>
+    <div style="display:inline-block; vertical-align:middle; margin-left:60px;">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
+  </div>
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,9 +35,7 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
   
 
 
-  <div style="display:inline-block; vertical-align:middle; margin-left:20px;">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
-  </div>
+
 </div>
 
 
