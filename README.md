@@ -13,7 +13,7 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 <div>
 
   <div>
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1300" height="50">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1000" height="50">
   </div>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
