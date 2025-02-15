@@ -12,14 +12,8 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 <div align="center">
 
-  <div style="display:inline-block; vertical-align:middle; margin-left:20px;">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
-  </div>
-    <div style="display:inline-block; vertical-align:middle; margin-left:40px;">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
-  </div>
-    <div style="display:inline-block; vertical-align:middle; margin-left:60px;">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="150" style="height:auto;">
+  <div style="display:inline-block; vertical-align:middle; margin-left:0px;">
+    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1500" style="height:150;">
   </div>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
