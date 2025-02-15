@@ -12,9 +12,10 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 <div>
 
-  <div>
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="1000" height="50">
-  </div>
+<div align="left">
+  <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="900" height="50">
+</div>
+
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
