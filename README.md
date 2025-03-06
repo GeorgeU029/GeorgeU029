@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/hellocaffeinecat2.gif?raw=true" alt="Hello" width="200">
-</div>
+
 
 ## 👋 Hey, I'm George Ulloa!
 
