@@ -45,6 +45,6 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 ## 📈 GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeU029&show_icons=true&theme=radical)  
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeU029&show_icons=true&theme=synthwave)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeU029&layout=compact&theme=radical)
 
