@@ -18,7 +18,9 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)      
 </div>
+
 ## 🛠️ Tools & DevOps
+
 <div align="left">
   <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="450" height="50">
 </div>
