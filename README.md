@@ -1,6 +1,5 @@
 ## 👋 Hey, I'm George Ulloa!
 Aspiring Software Engineer | Passionate about lots of things! Just coding for fun!  
-💻 Currently exploring Systems Programming, AI / Machine Learning / Web Dev / Anything fun!  
 🎯 My goal is to build cool projects that push my limits and help others learn  
 ## 🚀 Tech Stack
 <div>
