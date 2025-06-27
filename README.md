@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm George Ulloa!
- Software Engineer | Passionate about lots of things! Just coding for fun !
+ Software Engineer
 🎯 My goal is to build cool projects that push my limits and help others learn  
 ## 🚀 Tech Stack
 <div>
