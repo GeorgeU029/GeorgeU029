@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm George Ulloa!
- Software Engineer
+ Currenly Software Engineer at Feam Aero (co-op)
 ## 🚀 Tech Stack
 <div>
 <div align="left">
