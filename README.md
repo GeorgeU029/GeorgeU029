@@ -1,6 +1,6 @@
-## 👋 Hey, I'm George Ulloa!
+##Hey, I'm George Ulloa!
  Currenly a Software Engineer at Feam Aero (co-op)
-## 🚀 Tech Stack
+##Tech Stack
 <div>
 <div align="left">
   <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="900" height="50">
@@ -17,7 +17,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)      
 </div>
 
-## 🛠️ Tools & DevOps
+##Tools & DevOps
 
 <div align="left">
   <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="450" height="50">
