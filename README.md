@@ -1,5 +1,6 @@
 ## Hey, I'm George Ulloa!
- Currently a Software Engineer at Feam Aero (co-op)
+ Currently an Intern @ Microsoft
+ 
 ## Tech Stack
 <div>
 <div align="left">
